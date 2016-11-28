@@ -1,0 +1,9 @@
+A=Roberts,Marcus
+
+mkdir -p $A; cd $A
+
+touch	Deep_in_the_Shed
+touch	If_I_Could_Be_With_You
+touch	Portraits_In_Blue
+touch	The_Collected_Marcus_Roberts
+touch	The_Joy_of_Joplin

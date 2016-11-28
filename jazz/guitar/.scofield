@@ -1,0 +1,10 @@
+A=Scofield,John
+mkdir -p $A; cd       $A
+
+touch	Bump
+touch	Enroute_Live
+touch	Hand_Jive
+touch	Metropole_Orkest
+touch	Thats_What_Id_Say
+touch	UberJam
+touch	Up_All_Night

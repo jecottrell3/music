@@ -1,0 +1,14 @@
+A=Tyner,McCoy
+
+mkdir -p $A; cd $A
+
+touch	Big Band:Uptown_Downtown
+touch	Double_Trios
+touch	Hip_Toe
+touch	Land_of_Giants
+touch	New_York_Reunion
+touch	Plays_John_Coltrane
+touch	Revelations
+touch	Sahara
+touch	Trident
+touch	Warsaw_Jazz_Jambouree+Stephane_Grapelli

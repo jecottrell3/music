@@ -1,0 +1,274 @@
+A=Abercrombie,John; mkdir -p $A
+touch	$A/Speak_of_the_Devil
+touch	$A/Timeless
+
+A=Alexander,Monty; mkdir -p $A
+touch	$A/Steamin
+touch	$A/To_the_Ends_of_the_Earth
+
+A=Allison,Mose; mkdir -p $A
+touch	$A/Live_in_London,Vol1
+
+A=Armstrong,Louis; mkdir -p $A
+touch	$A/Best_of_the_Hot5+Hot7
+
+A=Bechet,Sidney; mkdir -p $A
+touch	$A/Ken_Burns_Jazz
+touch	$A/The_Legendary
+
+A=Beiderbecke,Bix; mkdir -p $A
+touch	$A/At_the_Jazz_Band_Hall,Vol2
+touch	$A/Singin_the_Blues,1%2
+touch	$A/Singin_the_Blues,2%2
+
+A=Bley,Paul+Trio; mkdir -p $A
+touch	$A/BeBop_BeBop_BeBop_BeBop 
+
+A=Blakey,Art+Jazz_Messengers; mkdir -p $A
+touch	$A/Mission_Eternal,Vol2
+
+A=Brubeck,Dave; mkdir -p $A
+touch	$A/Night_Shift
+touch	$A/Young_Lions+Old+Tigers
+
+A=Burrell,Kenny; mkdir -p $A
+touch	$A/Blue_Lights,Vol1
+
+A=Burton,Gary; mkdir -p $A
+touch	$A/Passengers
+
+A=Byrd,Charlie; mkdir -p $A
+touch	$A/Byrd_at_the_Village_Gate
+
+A=Canadian_Brass; mkdir -p $A
+touch	$A/The_Dixieland_Album
+
+A=Carlton,Larry; mkdir -p $A
+touch	$A/Fire_Wire
+touch	$A/Unplugged+Robben_Ford
+
+A=Chestnut,Cyrus; mkdir -p $A
+touch	$A/Quartet
+touch	$A/Eye_of_th_Beholder
+
+A=Christian,Charlie; mkdir -p $A
+touch	$A/Genius_of_the_Electric_Guitar
+
+A=Clarke,Stanley; mkdir -p $A
+touch	$A/With_Hiromi
+touch	$A/Jazz_in_the_Garden+Hiromi
+
+A=Coltrane,John; mkdir -p $A
+touch	$A/A_Love_Supreme
+touch	$A/Bags+Trane
+touch	$A/Giant_Steps
+touch	$A/Very_Best_Of
+
+A=Duku,Count; mkdir -p $A
+touch	$A/Count:One_OClock_Jump
+touch	$A/Count:Plays_Duke
+touch	$A/Duke:In_Grand_Company
+touch	$A/Duke:Meets_Count
+
+A=Davis,Miles; mkdir -p $A
+touch	$A/Blue_Haze
+touch	$A/Cookin+Quintet
+touch	$A/Cool_and_Collected
+touch	$A/Kind_of_Blue,Legacy_Edition,1%2
+touch	$A/Kind_of_Blue,Legacy_Edition,2%2
+touch	$A/Live_in_Europe_1967
+touch	$A/Sketches_of_Spain+In_a_Silent_Way
+
+A=Dimeola,Al; mkdir -p $A
+touch	$A/Consequence_of_Chaos
+touch	$A/Flesh_on_Flesh
+touch	$A/In_the_Flesh
+touch	$A/Plays_Bucky_Piazzola
+touch	$A/World_Sinfonia
+
+A=Farmer,Art+Jazztet; mkdir -p $A
+touch	$A/Real_Time
+
+A=Flanagan,Tommy; mkdir -p $A
+touch	$A/Lady_Be_Good
+touch	$A/Sea_Changes
+touch	$A/Trio_Overseas
+
+A=Frisell,Bill; mkdir -p $A
+touch	$A/All_We_are_Saying
+touch	$A/Blues_Dream
+touch	$A/Disfarmer
+touch	$A/Ghost_Town
+touch	$A/Going_Back_Home+Ginger_Baker_Trio
+touch	$A/Guitar_in_the_Space_Age
+touch	$A/Have_a_Little_Faith
+
+A=Garland,Red; mkdir -p $A
+touch	$A/Red_Garland
+touch	$A/Soul_Junction
+
+A=Garner,Erroll; mkdir -p $A
+touch	$A/Concert_By_the_Sea
+touch	$A/Solitaire
+touch	$A/The_Essence_of
+touch	$A/Yesterdays
+
+A=Gershwin,George; mkdir -p $A
+touch	$A/Piano_Rolls
+
+A=Gillespie,Dizzy; mkdir -p $A
+touch	$A/Copenhagen_Concert
+touch	$A/Diz+Getz
+touch	$A/New_Faces
+touch	$A/To_Diz_With_Love
+
+A=Grapelli,Stephane; mkdir -p $A
+touch	$A/Tivoli_Gardens_Copenhagen+Joe_Pass
+
+A=Green,Grant; mkdir -p $A
+touch	$A/Born_To_Be_Blue
+touch	$A/Idle_Moments
+
+A=Guaraldi,Vince; mkdir -p $A
+touch	$A/Charlie_Brown_Suite
+
+A=Hall,Jim; mkdir -p $A
+touch	$A/Concierto
+touch	$A/Something_Special
+
+####	A=Hedges,Michael; mkdir -p $A
+touch	$A/Oracle
+####	touch	$A/Oracle
+
+exit
+
+A=Henderson Fletcher; mkdir -p $A
+touch	$A/The_Henderson_Fletcher_Story
+
+A=Hines,Earl; mkdir -p $A
+touch	$A/Piano_Man
+
+A=Holland,Dave; mkdir -p $A
+touch	$A/Live_at_Birdland,1%2
+touch	$A/Live_at_Birdland,2%2
+touch	$A/Prime_Directive
+touch	$A/Prism
+
+A=Hutcherson,Bobby; mkdir -p $A
+touch	$A/For_Sentimental_Reasons
+touch	$A/Mirage
+
+A=Iyer,Vijay+Trio; mkdir -p $A
+touch	$A/Accelerando
+
+A=Jamal,Ahmad; mkdir -p $A
+touch	$A/Free_Flight
+touch	$A/Live_in_Paris_1992
+touch	$A/Pittsburgh
+
+A=Jordan,Stanley; mkdir -p $A
+touch	$A/Friends
+touch	$A/Magic_Touch
+
+A=Kellaway,Roger; mkdir -p $A
+touch	$A/Live_at_the_Jazz_Standard,1%2
+touch	$A/Live_at_the_Jazz_Standard,2%2
+
+A=Kessel,Barney; mkdir -p $A
+touch	$A/Yesterday
+
+A=Lesis,Ramsey; mkdir -p $A
+touch	$A/Time_Flies
+
+A=McKenna,Dave+Buddy DiFranco; mkdir -p $A
+touch	$A/You_Must_Believe_in_Swing
+
+A=McLaughlan,John; mkdir -p $A
+touch	$A/Passion,Grace,Fire
+touch	$A/To_the_One
+
+A=McPartland,Marian; mkdir -p $A
+touch	$A/Live_at_Shanghai_Jazz
+touch	$A/Live_at_Shanghai_Jazz
+touch	$A/Piano_Jazz
+
+A=Mehldau,Brad; mkdir -p $A
+touch	$A/Art_of_the_Trio,Vol1
+
+A=Montgomery,Wes; mkdir -p $A
+touch	$A/The_Incredible_Jazz_Guitar_of
+
+A=Noone,Jimmy; mkdir -p $A
+touch	$A/Apex_Blues
+
+A=Blue Note; mkdir -p $A
+touch	$A/One_Night_at_the_Blue_Note
+
+A=Paul,Les; mkdir -p $A
+touch	$A/Great_Guitar_Inventions
+
+A=Patitucci,John; mkdir -p $A
+touch	$A/Rememberence
+
+A=Petrucciani,Michel; mkdir -p $A
+touch	$A/Best_Of
+
+A=Porter,Cole; mkdir -p $A
+touch	$A/Songbook
+
+A=Powell,Bud; mkdir -p $A
+touch	$A/Best_of_Blue_Note_Years
+touch	$A/The_Amazing,Vol3
+
+A=Seven Men in Neckties; mkdir -p $A
+touch	$A/Microscopic_Septet,1%2
+touch	$A/Microscopic_Septet,2%2
+
+A=Silver,Horace; mkdir -p $A
+touch	$A/And_the_Jazz_Messengers
+
+A=Tatum,Art; mkdir -p $A
+touch	$A/Best_Of
+touch	$A/I_Got_Rhythm
+touch	$A/20th_Century_Piano_Genius,1%2
+touch	$A/20th_Century_Piano_Genius,2%2
+
+A=Taylor,Billy; mkdir -p $A
+touch	$A/Dr.T.
+touch	$A/Solo
+
+A=Teagarden,Jack; mkdir -p $A
+touch	$A/The_Indespensible,1%2
+touch	$A/The_Indespensible,2%2
+
+A=Towner,Ralph; mkdir -p $A
+touch	$A/Anthem
+touch	$A/Solstice
+
+A=True North; mkdir -p $A
+touch	$A/True_North
+
+A=Waldron,Mal; mkdir -p $A
+touch	$A/Impressions
+touch	$A/Mal_4
+
+A=Waller,Fats; mkdir -p $A
+touch	$A/Greatest_Hits
+
+A=Weber,Eberhard; mkdir -p $A
+touch	$A/Fluid_Rustle
+touch	$A/Pendulum
+
+A=Webster,Ben; mkdir -p $A
+touch	$A/Soulville
+
+A=Whitfield,Mark; mkdir -p $A
+touch	$A/7th_Avenue_Stroll
+
+A=Wooton,Victor; mkdir -p $A
+touch	$A/Palmystery
+touch	$A/S.M.V
+touch	$A/Soul_Circus
+
+A=Young,Lester; mkdir -p $A
+touch	$A/And_the_Piano_Giants

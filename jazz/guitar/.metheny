@@ -1,0 +1,18 @@
+A=Metheny,Pat
+N=Pat_Metheny
+
+mkdir $A
+cd    $A
+
+touch	${N}+Brad_Mehldau
+touch	${N}_Group
+touch	${N}_Trio_1%2
+touch	${N}_Trio_2%2
+touch	As_Falls_Wichita
+touch	Day_Trip
+touch	Metheny_Mehldau_Quartet
+touch	The_Orchestrion_Project_Original
+touch	The_Orchestrion_Project_Vol1
+touch	The_Orchestrion_Project_Vol2
+touch	Unity_Group
+touch	What_Its_All_About

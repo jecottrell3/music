@@ -1,0 +1,12 @@
+A=Modern_Jazz_Quartet
+
+mkdir -p $A; cd $A
+
+touch	Blues_at_Carnegie_Hall
+touch	MJQ+Friends
+touch	MJQ+Monk
+touch	MJQ+Paul_Desmond
+touch	40,1%4
+touch	40,2%4
+touch	40,3%4
+touch	40,4%4

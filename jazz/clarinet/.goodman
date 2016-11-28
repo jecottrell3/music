@@ -1,0 +1,22 @@
+A=Goodman,Benny
+N=Benny_Goodman
+
+mkdir -p $A; cd $A
+
+touch	Carnegie_Hall_40th,1%2
+touch	Carnegie_Hall_40th,2%2
+touch	Complete_RCS_Small_Groups,1%3
+touch	Complete_RCS_Small_Groups,2%3
+touch	Complete_RCS_Small_Groups,3%3
+touch	Greatest_Hits:RCA_Victor
+touch	Laser_Light
+touch	Live_at_Carnegie_Hall,1%2
+touch	Live_at_Carnegie_Hall,2%2
+touch	Sextet
+touch	Sing,_Sing,_Sing
+touch	Small_Groups
+touch	The_Essential_${N},1%2
+touch	The_Essential_${N},2%2
+touch	The_Small_Groups:aka_The_Immortal_${N}
+touch	Trio+Quartet_Live_in_1937
+touch	Trio+QuartetSessions,Vol1

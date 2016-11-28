@@ -1,0 +1,28 @@
+A=Jarrett,Keith; mkdir -p $A
+
+touch	$A/Carnegie_Hall_Concert,1%2
+touch	$A/Carnegie_Hall_Concert,2%2
+touch	$A/Changes
+touch	$A/Facing_You
+touch	$A/Inside_Out
+touch	$A/Jasmine
+touch	$A/Last_Dance
+touch	$A/Live_Standards
+touch	$A/Live_at_the_Deer_Head_Inn
+touch	$A/My_Follish_Heart,1%2
+touch	$A/My_Follish_Heart,2%2
+touch	$A/No_End,1%2
+touch	$A/No_End,2%2
+touch	$A/Paris+London,1%3
+touch	$A/Paris+London,2%3
+touch	$A/Paris+London,3%3
+touch	$A/Somewhere
+touch	$A/Standards,Vol1
+touch	$A/Still_Live,1%2
+touch	$A/Still_Live,2%2
+touch	$A/The_Koln_Concert
+touch	$A/The_Out_of_Towners
+touch	$A/Up_For_It
+touch	$A/Whisper_Not,1%2
+touch	$A/Whisper_Not,2%2
+touch	$A/Yesterdays

@@ -1,0 +1,17 @@
+A=Peterson,Oscar
+
+mkdir -p $A; cd $A
+
+touch	A_Tribute_To Oscar_Peterson
+touch	Encore_at_the_Blue_Note
+touch	Live_at_the_Blue_Note
+touch	Perfect_Peterson,1%2
+touch	Perfect_Peterson,2%2
+touch	Plays_Count_Basie
+touch	Porgy+Bess
+touch	Side_By_Side+Itzhak_Perlman
+touch	Solo
+touch	The_Art_of_Duo
+touch	The_Historic_Carnegie_Hall_Concerts
+touch	Three_Originals,Vol2
+touch	Very_Tall+Milt_Jackson

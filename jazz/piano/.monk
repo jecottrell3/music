@@ -1,0 +1,14 @@
+A=Monk,Thelonius
+
+mkdir -p $A; cd $A
+
+touch	And_The_Jazz_Giants
+touch	And_Trane_Live_At_Cargegie_Hall
+touch	Complete_1957_Riverside+Coltrane,1%2
+touch	Complete_1957_Riverside+Coltrane,2%2
+touch	Genius_Of_Modern_Music,Vol2
+touch	Monks_Dream
+touch	Paris_1969
+touch	Steve_Lacy_Plays
+touch	The_Unique_Thelonius_Monk
+touch	Thelonius_Himself

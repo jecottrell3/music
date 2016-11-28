@@ -1,0 +1,9 @@
+A=Hancock,Herbie; mkdir -p $A
+touch $A/Best_Of
+touch $A/Empyrean_Isles
+touch $A/Gershwins_World
+touch $A/Maiden_Voyage
+touch $A/Mwandishi,1%2
+touch $A/Mwandishi,2%2
+touch $A/Possibilities
+touch $A/The_Imagine_Project

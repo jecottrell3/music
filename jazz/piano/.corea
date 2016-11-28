@@ -1,0 +1,30 @@
+A=Corea,Chick
+N=Corea
+
+mkdir -p $A
+cd       $A
+
+touch	Change
+touch	Corea+Clarke+White:Forever,1%2
+touch	Corea+Clarke+White:Forever,2%2
+touch	Duet+Hiromi,1%2
+touch	Duet+Hiromi,2%2
+touch	Five_Peace_Band,1%2
+touch	Five_Peace_Band,2%2
+touch	Like_Minds+Burton,Metheny,Haynes,Holland
+touch	Native_Sense+Gary_Burton
+touch	Now_He_Sings,Now_He_Sobs
+touch	Origin
+touch	Remembering_Bud_Powell
+touch	Rendezvous_in_New_York,1%2
+touch	Rendezvous_in_New_York,2%2
+touch	Return_To_Forever:The_Anthology,1%2
+touch	Return_To_Forever:The_Anthology,2%2
+touch	The_Continents,1%2
+touch	The_Continents,2%2
+touch	The_Ultimate_Adventure
+touch	The_Vigil
+touch	Trilogy,1%3
+touch	Trilogy,2%3
+touch	Trilogy,3%3
+touch	Trio_Music_Live_in_Europe

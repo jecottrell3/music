@@ -1,0 +1,13 @@
+A=Hampton,Lionel
+N=Lionel_Hampton
+
+mkdir -p $A
+cd       $A
+
+touch	Feel_the_Vibes
+touch	Flying_Home
+touch	Hot_Mallets
+touch	The_${N}_Story,1%4
+touch	The_${N}_Story,2%4
+touch	The_${N}_Story,3%4
+touch	The_${N}_Story,4%4
