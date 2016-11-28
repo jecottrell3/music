@@ -1,0 +1,93 @@
+A=Bach,JS; mkdir -p $A
+
+	touch $A/Bach_on_Abbey_Road
+	touch $A/Brandenberg_Concertos_1-3
+	touch $A/Brandenberg_Concertos_4-6
+	touch $A/Goldberg_Variations
+	touch $A/Guitar-Violin_Sonatas+Partitas,V1
+	touch $A/Guitar-Violin_Sonatas+Partitas,V2
+	touch $A/Harpsichord_Recital
+	touch $A/Lute_Suites,V1
+	touch $A/Lute_Suites,V2
+	touch $A/Organ-Great_Bach_Works,V1
+	touch $A/Organ-Great_Bach_Works,V2
+	touch $A/Organ-Toccatas+Inventions,V1
+	touch $A/Organ-Toccatas+Inventions,V2
+	touch $A/Piano-Easy_Listening_Bach_Classics,V1
+	touch $A/Piano-Easy_Listening_Bach_Classics,V2
+	touch $A/Piano-Easy_Listening_Bach_Classics,V3
+	touch $A/Piano-Partitas_1,2+Schubert_Impromptus
+	touch $A/Well_Tempered_Clavier-V1
+	touch $A/Well_Tempered_Clavier-V2
+	touch $A/Well_Tempered_Clavier-V3
+
+A=Bartok,Bela; mkdir -p $A
+
+	touch $A/Contrasts+Mikro_Kosmos
+
+A=Beethoven,Lovely_Lovely_Ludwig_Van; mkdir -p $A
+
+	touch $A/Piano-Easy_Listening_Beethoven_Classics,V1
+	touch $A/Piano-Easy_Listening_Beethoven_Classics,V2
+	touch $A/Piano-Ligeti_Etudes+LVB_Sonata_#32_C_Minor
+
+A=Chopin,Frederic; mkdir -p $A
+
+	touch $A/Piano-Nocturnes_1-10
+	touch $A/Piano-Nocturnes_11-20
+	touch $A/The_Complete_Preludes-Rafal_Blechacz
+	touch $A/The_Chopin_Variations-Chad_Lawson+Strings
+	touch $A/The_Chopin_Variations-Chad_Lawson-Alone
+
+A=Debussy,Claude; mkdir -p $A
+
+	touch $A/Piano-Complete_Preludes_1-24
+	touch $A/Piano-Easy_Listening_1-17
+	touch $A/Piano-Easy_Listening_1-4+Ravel_5-16
+
+A=Deutscher,Alma_{child_prodigy}; mkdir -p $A
+
+	touch $A/The_Music_of
+
+A=Guitar,The_Ultimate_Romantic; mkdir -p $A
+
+	touch $A/Volume_1
+	touch $A/Volume_2
+
+A=Hahn,Hillary; mkdir -p $A
+
+	touch $A/Violin+Cory_Smyth-Piano,Encores,V1
+	touch $A/Violin+Cory_Smyth-Piano,Encores,V2
+
+A=Haydn,Franz_Joseph; mkdir -p $A
+
+	touch $A/Piano_Sonatas_29,31,34,35,49-Emanual_Ax
+
+A=Holst,Gustav; mkdir -p $A
+
+	touch $A/Orchestra-The_Planets
+
+A=Ma,Yo_Yo; mkdir -p $A
+
+	touch $A/The_SIlk_Road_Journies
+
+A=Shostakovich,Dmitri; mkdir -p $A
+
+	touch $A/Preludes+Fugues,Opus_97-Keith_Jarret,V1
+	touch $A/Preludes+Fugues,Opus_97-Keith_Jarret,V2
+
+A=Stravinsky,Igor; mkdir -p $A
+
+	touch $A/Rite_of_Spring+Bach_Fugues
+	touch $A/Rite_of_Spring-The_Bad_Plus
+
+A=US_Navy_Band; mkdir -p $A
+
+	touch $A/Music_for_Chamber_Winds,V1
+	touch $A/Music_for_Chamber_Winds,V2
+
+A=Windham_Hill; mkdir -p $A
+
+	touch $A/The_Impressionists_{classical}
+	touch $A/The_Mozart_Variations
+	touch $A/The_Bach_Variations
