@@ -1,0 +1,129 @@
+A=Allman_Brothers; mkdir -p $A
+touch	$A/Decade_Of_Hits-69%79
+touch	$A/The_Fillmore_Concerts
+touch	$A/Beginnings
+touch	$A/Eat_A_Peach
+
+A=Pink_Floyd; mkdir -p $A
+touch	$A/Obscured_By_Clouds
+touch	$A/Animals
+touch	$A/Dark_Side_Of_The_Moon
+touch	$A/Meddle
+touch	$A/Umma_Gumma-Studio
+touch	$A/Umma_Gumma-Live
+touch	$A/Division_Bell
+
+A=Doors; mkdir -p $A
+touch	$A/Morrison_Hotel
+touch	$A/Soft_Parade
+touch	$A/Waiting_For_The_Sun
+touch	$A/Eponymous
+touch	$A/Strange_Days
+
+A=Byrds; mkdir -p $A
+touch	$A/Untitled+Unissued
+touch	$A/Byrds
+touch	$A/Bluegrass_Trbute
+touch	$A/Live_From_Mars
+touch	$A/Play_Dylan
+
+A=Fleck,Bela; mkdir -p $A
+touch	$A/Cockoos_Nest
+touch	$A/Perpetual_Motion
+touch	$A/UfoTofu
+touch	$A/Dreadful_Snakes
+touch	$A/Tabula_Rasa
+touch	$A/Outbound
+
+A=Steely_Dan; mkdir -p $A
+touch	$A/Pretzel_Logic
+touch	$A/Aja
+touch	$A/Katy_Lied
+
+A=Yes; mkdir -p $A
+touch	$A/Close_To_The_Edge
+touch	$A/Fragile
+touch	$A/The_Yes_Album
+
+A=Hendrix,Jimi; mkdir -p $A
+touch	$A/Electric_Ladyland
+touch	$A/Are_You_Experienced
+touch	$A/Bold_As_Love
+
+A=Mitchell,Joni; mkdir -p $A
+touch	$A/Court+Spark
+touch	$A/Hejira
+touch	$A/Ladies_Of_The_Canyon
+
+A=Dylan,Bob; mkdir -p $A
+touch	$A/Greatest_Hits-Vol1
+touch	$A/Greatest_Hits-Vol2
+touch	$A/Hard_Rain
+touch	$A/Highway_61
+touch	$A/Bringing_It_All_Back_Home
+touch	$A/Blood_On_The_Tracks
+
+A=Grateful_Dead; mkdir -p $A
+touch	$A/Dead_Set
+touch	$A/Reckoning
+touch	$A/Europe_72-Vol1
+touch	$A/Europe_72-Vol2
+touch	$A/Garcia
+touch	$A/One_From_The_Vault
+touch	$A/Mars_Hotel
+touch	$A/Live_Dead
+touch	$A/Terrapin_Station
+touch	$A/American_Beauty
+touch	$A/Heaven_Help_The_Fool
+touch	$A/Workingmans_Dead
+touch	$A/Ace
+touch	$A/Anthem_Of_The_Sun
+touch	$A/Aoxomoxoa
+touch	$A/Without_A_Net
+touch	$A/Blue_Incantation
+touch	$A/Grateful_Dawg
+touch	$A/The_Other_Ones
+touch	$A/So_What
+touch	$A/Side_Trips
+touch	$A/Second_Sight
+touch	$A/Pizza_Tapes
+touch	$A/Bright_Shadows
+touch	$A/Zero-Here_Goes_Nothing
+touch	$A/Wake_The_Dead
+touch	$A/Greyfolded
+touch	$A/Sunshine_Daydream
+
+
+A=Gatton,Danny; mkdir -p $A
+touch	$A/Redneck_Jazz
+touch	$A/Unfinished_Business
+touch	$A/American_Music
+touch	$A/New_York_Stories
+touch	$A/In_Concert-9%9%94
+touch	$A/Live_At_Desperados
+touch	$A/Redneck_Jazz_Explosion
+touch	$A/Portraits
+touch	$A/Untouchable
+touch	$A/Live+Buddy_Emmons-Vol1
+touch	$A/Live+Buddy_Emmons-Vol2
+
+A=California_Guitar_Trio; mkdir -p $A
+touch	$A/Rocks_The_West
+touch	$A/Discipline
+touch	$A/With_Levin+Mastelotto
+touch	$A/First_Decade
+touch	$A/Pathways
+touch	$A/10_Christmas_Songs
+touch	$A/Yamanashi_Blues
+
+A=McLachlan,Sarah; mkdir -p $A
+touch	$A/Surfacing
+touch	$A/Mirrorball
+touch	$A/Laws_Of_Illusion
+touch	$A/Solace
+touch	$A/Afterglow
+touch	$A/Shine_On
+touch	$A/Touch
+touch	$A/Rarities
+touch	$A/Fumbling_Towards_Ecstasy
+touch	$A/Mirrorball_Complete
