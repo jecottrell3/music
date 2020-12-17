@@ -90,9 +90,50 @@ touch	$A/Pizza_Tapes
 touch	$A/Bright_Shadows
 touch	$A/Zero-Here_Goes_Nothing
 touch	$A/Wake_The_Dead
+touch	$A/Laughing_Water
 touch	$A/Greyfolded
 touch	$A/Sunshine_Daydream
+touch	$A/Stepping_Out-England_72
 
+A=Wilson_Phillips; mkdir -p $A
+touch	$A/Eponymous
+
+A=The_Who; mkdir -p $A
+touch	$A/Tommy
+touch	$A/Live_At_Leeds
+
+A=Clapton,Eric; mkdir -p $A
+touch	$A/Blind_Faith
+
+A=Petty,Tom; mkdir -p $A
+touch	$A/Greatest_Hits
+
+A=Rolling_Stones; mkdir -p $A
+touch	$A/Blues_Tribute_To
+
+A=Beatles; mkdir -p $A
+touch	$A/Best_Of
+
+A=Beatles; mkdir -p $A
+touch	$A/Love
+
+A=Genesis; mkdir -p $A
+touch	$A/Lamb_Lies_Down_On_Broadway
+
+A=Colvin,Shawn; mkdir -p $A
+touch	$A/A_Few_Small_Repairs
+
+A=String_Cheese_Incident; mkdir -p $A
+touch	$A/Carnival_99
+touch	$A/A_String_Cheese_Incident
+
+A=McKennitt,Lorena; mkdir -p $A
+touch	$A/Mask+Mirror
+touch	$A/Live_In_Paris+Toronto
+
+A=Cassidy,Eva; mkdir -p $A
+touch	$A/Songbird
+touch	$A/Live_At_Blues_Alley
 
 A=Gatton,Danny; mkdir -p $A
 touch	$A/Redneck_Jazz
