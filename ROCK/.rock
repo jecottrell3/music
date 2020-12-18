@@ -1,24 +1,24 @@
 A=Allman_Brothers; mkdir -p $A
-touch	$A/Decade_Of_Hits-69%79
-touch	$A/The_Fillmore_Concerts
 touch	$A/Beginnings
+touch	$A/The_Fillmore_Concerts
 touch	$A/Eat_A_Peach
+touch	$A/Decade_Of_Hits-69%79
 
-A=Pink_Floyd; mkdir -p $A
-touch	$A/Obscured_By_Clouds
-touch	$A/Animals
-touch	$A/Dark_Side_Of_The_Moon
-touch	$A/Meddle
-touch	$A/Umma_Gumma-Studio
-touch	$A/Umma_Gumma-Live
-touch	$A/Division_Bell
+A=Beatles; mkdir -p $A
+touch	$A/Love
 
-A=Doors; mkdir -p $A
-touch	$A/Morrison_Hotel
-touch	$A/Soft_Parade
-touch	$A/Waiting_For_The_Sun
+A=The_Band; mkdir -p $A
+touch	$A/Music_From_Big_Pink
 touch	$A/Eponymous
-touch	$A/Strange_Days
+touch	$A/Rock_Of_Ages
+
+A=Beck,Jeff; mkdir -p $A
+touch	$A/Blow_By_Blow
+
+A=Browne,Jackson; mkdir -p $A
+touch	$A/For_Everyman
+touch	$A/Late_For_The_Sky
+touch	$A/Lives_In_The_Balance
 
 A=Byrds; mkdir -p $A
 touch	$A/Untitled+Unissued
@@ -27,33 +27,43 @@ touch	$A/Bluegrass_Trbute
 touch	$A/Live_From_Mars
 touch	$A/Play_Dylan
 
-A=Fleck,Bela; mkdir -p $A
-touch	$A/Cockoos_Nest
-touch	$A/Perpetual_Motion
-touch	$A/UfoTofu
-touch	$A/Dreadful_Snakes
-touch	$A/Tabula_Rasa
-touch	$A/Outbound
+A=California_Guitar_Trio; mkdir -p $A
+touch	$A/Rocks_The_West
+touch	$A/Discipline
+touch	$A/With_Levin+Mastelotto
+touch	$A/First_Decade
+touch	$A/Pathways
+touch	$A/10_Christmas_Songs
+touch	$A/Yamanashi_Blues
 
-A=Steely_Dan; mkdir -p $A
-touch	$A/Pretzel_Logic
-touch	$A/Aja
-touch	$A/Katy_Lied
+A=Cassidy,Eva; mkdir -p $A
+touch	$A/Songbird
+touch	$A/Live_At_Blues_Alley
 
-A=Yes; mkdir -p $A
-touch	$A/Close_To_The_Edge
-touch	$A/Fragile
-touch	$A/The_Yes_Album
+A=Clapton,Eric; mkdir -p $A
+touch	$A/Fresh_Cream
+touch	$A/Disraeli_Gears
+touch	$A/Wheels_Of_Fire
+touch	$A/Blind_Faith
+touch	$A/Layla
+touch	$A/461_Ocean_Boulevard
 
-A=Hendrix,Jimi; mkdir -p $A
-touch	$A/Electric_Ladyland
-touch	$A/Are_You_Experienced
-touch	$A/Bold_As_Love
+A=Colvin,Shawn; mkdir -p $A
+touch	$A/A_Few_Small_Repairs
 
-A=Mitchell,Joni; mkdir -p $A
-touch	$A/Court+Spark
-touch	$A/Hejira
-touch	$A/Ladies_Of_The_Canyon
+A=CSN; mkdir -p $A
+touch	$A/CSN
+touch	$A/Deja_Vu
+touch	$A/4_Way_Street
+
+A=Doors; mkdir -p $A
+touch	$A/Eponymous
+touch	$A/Strange_Days
+touch	$A/Waiting_For_The_Sun
+touch	$A/Soft_Parade
+touch	$A/Morrison_Hotel
+touch	$A/L.A.Woman
+touch	$A/An_American_Prayer
 
 A=Dylan,Bob; mkdir -p $A
 touch	$A/Greatest_Hits-Vol1
@@ -62,6 +72,35 @@ touch	$A/Hard_Rain
 touch	$A/Highway_61
 touch	$A/Bringing_It_All_Back_Home
 touch	$A/Blood_On_The_Tracks
+
+A=Fleck,Bela; mkdir -p $A
+touch	$A/Dreadful_Snakes
+touch	$A/UfoTofu
+touch	$A/Cuckoos_Nest
+touch	$A/Outbound
+touch	$A/Little_Worlds
+touch	$A/Tabula_Rasa
+touch	$A/Perpetual_Motion
+
+A=Gatton,Danny; mkdir -p $A
+touch	$A/Redneck_Jazz
+touch	$A/Unfinished_Business
+touch	$A/American_Music
+touch	$A/New_York_Stories
+touch	$A/In_Concert-9%9%94
+touch	$A/Live_At_Desperados
+touch	$A/Redneck_Jazz_Explosion
+touch	$A/Portraits
+touch	$A/Untouchable
+touch	$A/Live+Buddy_Emmons-Vol1
+touch	$A/Live+Buddy_Emmons-Vol2
+
+A=Genesis; mkdir -p $A
+touch	$A/Lamb_Lies_Down_On_Broadway
+touch	$A/Nursery_Cryme
+touch	$A/Foxtrot
+touch	$A/Selling_England_By_The_Pound
+touch	$A/Trick_Of_The_Tail
 
 A=Grateful_Dead; mkdir -p $A
 touch	$A/Dead_Set
@@ -95,76 +134,78 @@ touch	$A/Greyfolded
 touch	$A/Sunshine_Daydream
 touch	$A/Stepping_Out-England_72
 
-A=Wilson_Phillips; mkdir -p $A
-touch	$A/Eponymous
+A=Hendrix,Jimi; mkdir -p $A
+touch	$A/Are_You_Experienced
+touch	$A/Bold_As_Love
+touch	$A/Electric_Ladyland
+touch	$A/Live_At_Fillmore_East
 
-A=The_Who; mkdir -p $A
-touch	$A/Tommy
-touch	$A/Live_At_Leeds
+A=Jackson,Michael; mkdir -p $A
+touch	$A/Thriller
 
-A=Clapton,Eric; mkdir -p $A
-touch	$A/Blind_Faith
+A=Little_Feat; mkdir -p $A
+touch	$A/Waiting_For_Columbus
 
-A=Petty,Tom; mkdir -p $A
-touch	$A/Greatest_Hits
-
-A=Rolling_Stones; mkdir -p $A
-touch	$A/Blues_Tribute_To
-
-A=Beatles; mkdir -p $A
-touch	$A/Best_Of
-
-A=Beatles; mkdir -p $A
-touch	$A/Love
-
-A=Genesis; mkdir -p $A
-touch	$A/Lamb_Lies_Down_On_Broadway
-
-A=Colvin,Shawn; mkdir -p $A
-touch	$A/A_Few_Small_Repairs
-
-A=String_Cheese_Incident; mkdir -p $A
-touch	$A/Carnival_99
-touch	$A/A_String_Cheese_Incident
+A=Mitchell,Joni; mkdir -p $A
+touch	$A/Ladies_Of_The_Canyon
+touch	$A/Court+Spark
+touch	$A/Hejira
 
 A=McKennitt,Lorena; mkdir -p $A
 touch	$A/Mask+Mirror
 touch	$A/Live_In_Paris+Toronto
 
-A=Cassidy,Eva; mkdir -p $A
-touch	$A/Songbird
-touch	$A/Live_At_Blues_Alley
-
-A=Gatton,Danny; mkdir -p $A
-touch	$A/Redneck_Jazz
-touch	$A/Unfinished_Business
-touch	$A/American_Music
-touch	$A/New_York_Stories
-touch	$A/In_Concert-9%9%94
-touch	$A/Live_At_Desperados
-touch	$A/Redneck_Jazz_Explosion
-touch	$A/Portraits
-touch	$A/Untouchable
-touch	$A/Live+Buddy_Emmons-Vol1
-touch	$A/Live+Buddy_Emmons-Vol2
-
-A=California_Guitar_Trio; mkdir -p $A
-touch	$A/Rocks_The_West
-touch	$A/Discipline
-touch	$A/With_Levin+Mastelotto
-touch	$A/First_Decade
-touch	$A/Pathways
-touch	$A/10_Christmas_Songs
-touch	$A/Yamanashi_Blues
-
 A=McLachlan,Sarah; mkdir -p $A
+touch	$A/Rarities
+touch	$A/Touch
+touch	$A/Solace
+touch	$A/Fumbling_Towards_Ecstasy
 touch	$A/Surfacing
 touch	$A/Mirrorball
-touch	$A/Laws_Of_Illusion
-touch	$A/Solace
-touch	$A/Afterglow
-touch	$A/Shine_On
-touch	$A/Touch
-touch	$A/Rarities
-touch	$A/Fumbling_Towards_Ecstasy
 touch	$A/Mirrorball_Complete
+touch	$A/Afterglow
+touch	$A/Laws_Of_Illusion
+touch	$A/Shine_On
+
+A=Petty,Tom; mkdir -p $A
+touch	$A/Greatest_Hits
+
+A=Pink_Floyd; mkdir -p $A
+touch	$A/Umma_Gumma
+touch	$A/Meddle
+touch	$A/Obscured_By_Clouds
+touch	$A/Dark_Side_Of_The_Moon
+touch	$A/Animals
+touch	$A/Division_Bell
+
+A=Rolling_Stones; mkdir -p $A
+touch	$A/Blues_Tribute_To
+touch	$A/Aftermath
+touch	$A/Satanic_Majesty
+touch	$A/Beggars_Banquet
+touch	$A/Let_It_Bleed
+touch	$A/Exile_On_Main_Street
+touch	$A/Some_Girls
+
+A=Steely_Dan; mkdir -p $A
+touch	$A/Pretzel_Logic
+touch	$A/Aja
+touch	$A/Katy_Lied
+
+A=String_Cheese_Incident; mkdir -p $A
+touch	$A/Carnival_99
+touch	$A/A_String_Cheese_Incident
+
+A=Wilson_Phillips; mkdir -p $A
+touch	$A/Eponymous
+
+A=The_Who; mkdir -p $A
+touch	$A/Sell_Out
+touch	$A/Tommy
+touch	$A/Live_At_Leeds
+
+A=Yes; mkdir -p $A
+touch	$A/Close_To_The_Edge
+touch	$A/Fragile
+touch	$A/The_Yes_Album
+
